@@ -1,32 +1,41 @@
 Name,Resolution,Category,Size (Vol),Resolution Date,Slug,Out Prefix
-30-year mortgage rate below 6% by December 31?,"""No""",Economy,$38k Vol,"Dec 31, 2025",30-year-mortgage-rate-below-6-by-december-31,30-31
-Will Christopher Waller dissent the next Fed Decision?,"""No""",Economy,$18k Vol,"Mar 18, 2026",will-waller-dissent-the-next-fed-decision,will-decision
-Will Stephen Miran dissent the next Fed decision?,"""Yes""",Economy,$47k Vol,"Mar 18, 2026",will-stephen-miran-dissent-the-next-fed-decision,will-decision
-Negative GDP growth in Q4 2025?,"""No""",Economy,$36k Vol,"Jan 29, 2026",negative-gdp-growth-in-q4-2025-295,negative-295
-US bank failure by February 28?,"""Yes""",Economy,$78k Vol,"Feb 28, 2026",us-bank-failure-by-february-28,us-28
-BLS delays another CPI release before 2027?,"""Yes""",Economy,$40k Vol,"Feb 5, 2026",bls-delays-another-cpi-release-before-2027,bls-2027
-SpaceX and xAI merger officially announced by June 30?,"""Yes""",Economy,$105k Vol,"Feb 3, 2026",spacex-and-xai-merger-offcially-announced-by-june-30,spacex-30
-Nothing Ever Happens: February,"""Something""",Geopolitics,$86k Vol.,"Feb 28, 2026",nothing-ever-happens-february-152,nothing-152
-Fact Check: is LA U-Haul attack perp a U.S. Citizen,"""No""",Geopolitics,$26k Vol.,"Mar 1, 2026",fact-check-is-la-u-haul-attack-perp-a-us-citizen,fact-citizen
-Will Marco Rubio visit Israel by March 2?,"""No""",Geopolitics,$101k Vol,"Mar 2, 2026",will-marco-rubio-visit-israel-by-march-2,will-2
-L.A. U-Haul attack perp charged with terrorism?,"""No""",Geopolitics,$24k Vol,"Feb 28, 2026",la-u-haul-attack-perp-charged-with-terrorism,la-terrorism
-Israel withdraws from Syria before October?,"""No""",Geopolitics,$51k Vol,"Oct 1, 2025",israel-withdraws-from-syria-before-ocotober,israel-ocotober
-Young Thug found guilty of racketeering,"""Yes""",Politics,$15k Vol.,"Jul 1, 2024",young-thug-found-guilty-of-racketeering,young-racketeering
-Elon Musk tweets 25+ times Wednesday?,"""Yes""",Politics,$15k Vol.,"Jan 31, 2025",elon-musk-tweets-25-times-wednesday,elon-wednesday
-Enhanced ACA premium tax credits extended by January 31?,"""No""",Politics,$117k Vol. ,"Jan 31, 2026",enhanced-aca-premium-tax-credits-extended-by-january-31,enhanced-31
-US tariff revenue up in Q3 2025?,"""Yes""",Politics,$79k Vol,"Oct 10, 2025",us-tariff-revenue-up-in-q3-2025,us-2025
-Will Russia capture any territory in Lyman by December 15?,"""No""",Politics,$85k Vol,"Dec 15, 2025",will-russia-capture-any-territory-in-lyman-by-december-15,will-15
-Will Clavicular be the top ranked Chad by March 31?,"""Yes""",Pop-Culture,$186k Vol,"Mar 18, 2026",will-clavicular-be-the-top-ranked-chad-by-march-31,will-31
-Trump’s travel ban removed by January 31?,“No”,Pop-Culture,$10k Vol.,"Jan 31, 2026",trumps-travel-ban-removed-by-january-31,trumps-31
-Will BULLY debut No.1 on Billboard 200?,"""No""",Pop-Culture,$12k Vol,"Feb 28, 2026",will-bully-debut-no1-on-billboard-200,will-200
-Trump declassifies new UFO files by February 28?,"""No""",Pop-Culture,$46k Vol,"Feb 28, 2026",trump-declassifies-new-ufo-files-by-february-28,trump-28
-Martin Nowak out as Harvard professor by February 28?,"""No""",Pop-Culture,$9k Vol,"Feb 28, 2026",martin-nowak-out-by-february-28,martin-28
-Will Ye say something antisemitic before March?,"""No""",Pop-Culture,$22k Vol,"Feb 28, 2026",will-ye-say-something-antisemitic-before-march-575,will-575
-Will Kanye tweet again by February 28?,"""No""",Pop-Culture,$36k Vol,"Feb 28, 2026",will-kanye-tweet-again-by-february-28,will-28
-Will Bill or Hillary Clinton be held in contempt of Congress by Feb 28?,"""No""",Pop-Culture,$95k Vol,"Feb 28, 2026",will-bill-or-hillary-clinton-be-held-in-contempt-of-congress-by-feb-28,will-28
-Stefon Diggs suspended this season?,"""No""",Pop-Culture,$52k Vol,"Feb 28, 2026",stefon-diggs-suspended-this-season,stefon-season
-X relaunches Vine in 2025,"""No""",Technology,$150k Vol.,"Jan 4, 2026",x-relaunches-vine-in-2025,x-2025
-Apple AirTags 2 priced below $30 USD at release,"""Yes""",Technology,$61k Vol.,"Jan 26, 2026",apple-airtags-2-priced-below-30-usd-at-release,apple-release
-Will Cluely declare bankruptcy in 2025?,"""No""",Technology,$8k Vol,"Dec 31, 2025",will-cluely-declare-bankruptcy-in-2025,will-2025
-ChatGPT Full Outage by February 28?,"""Yes""",Technology,$21k Vol,"Feb 28, 2026",chatgpt-full-outage-by-february-28,chatgpt-28
-"TrumpRX launched by February 28, 2026?","""Yes""",Technology,$81k Vol,"Feb 28, 2026",trumprx-launched-by-february-28-2026,trumprx-2026
+30-year mortgage rate below 6% by December 31?,"""No""",Economy,$38k,"Dec 31, 2025",30-year-mortgage-rate-below-6-by-december-31,30-31
+Will Christopher Waller dissent the next Fed Decision?,"""No""",Economy,$18k,"Mar 18, 2026",will-waller-dissent-the-next-fed-decision,will-decision
+Will Stephen Miran dissent the next Fed decision?,"""Yes""",Economy,$47k,"Mar 18, 2026",will-stephen-miran-dissent-the-next-fed-decision,will-decision
+Negative GDP growth in Q4 2025?,"""No""",Economy,$36k,"Jan 29, 2026",negative-gdp-growth-in-q4-2025-295,negative-295
+US bank failure by February 28?,"""Yes""",Economy,$78k,"Feb 28, 2026",us-bank-failure-by-february-28,us-28
+BLS delays another CPI release before 2027?,"""Yes""",Economy,$40k,"Feb 5, 2026",bls-delays-another-cpi-release-before-2027,bls-2027
+SpaceX and xAI merger officially announced by June 30?,"""Yes""",Economy,$105k,"Feb 3, 2026",spacex-and-xai-merger-offcially-announced-by-june-30,spacex-30
+Brazil unemployment below 6.3% for Q4 2025,"""Yes""",Economy,$221k,"Dec 31, 2025",brazil-unemployment-below-6pt3-for-q4-2025,brazil-2025
+Price of eggs goes up in Trump's first month?,"""Yes""",Economy,$314k,"Apr 12, 2025",will-the-price-of-eggs-go-up-in-trumps-first-month-in-office,will-office
+Nothing Ever Happens: February,"""Something""",Geopolitics,$86k,"Feb 28, 2026",nothing-ever-happens-february-152,nothing-152
+Fact Check: is LA U-Haul attack perp a U.S. Citizen,"""No""",Geopolitics,$26k,"Mar 1, 2026",fact-check-is-la-u-haul-attack-perp-a-us-citizen,fact-citizen
+Will Marco Rubio visit Israel by March 2?,"""No""",Geopolitics,$101k,"Mar 2, 2026",will-marco-rubio-visit-israel-by-march-2,will-2
+L.A. U-Haul attack perp charged with terrorism?,"""No""",Geopolitics,$24k,"Feb 28, 2026",la-u-haul-attack-perp-charged-with-terrorism,la-terrorism
+Israel withdraws from Syria before October?,"""No""",Geopolitics,$51k,"Oct 1, 2025",israel-withdraws-from-syria-before-ocotober,israel-ocotober
+New Pope before July?,"""Yes""",Geopolitics,$348k,"Jun 30, 2025",new-pope-before-july,new-july
+Biden diagnosed with prostate cancer while in office?,"""No""",Politics,$286k,"Jul 31, 2025",fact-check-biden-diagnosed-with-prostate-cancer-while-in-office,fact-office
+Young Thug found guilty of racketeering,"""Yes""",Politics,$15k,"Jul 1, 2024",young-thug-found-guilty-of-racketeering,young-racketeering
+Elon Musk tweets 25+ times Wednesday?,"""Yes""",Politics,$15k,"Jan 31, 2025",elon-musk-tweets-25-times-wednesday,elon-wednesday
+Enhanced ACA premium tax credits extended by January 31?,"""No""",Politics,$117k,"Jan 31, 2026",enhanced-aca-premium-tax-credits-extended-by-january-31,enhanced-31
+US tariff revenue up in Q3 2025?,"""Yes""",Politics,$79k,"Oct 10, 2025",us-tariff-revenue-up-in-q3-2025,us-2025
+Will Russia capture any territory in Lyman by December 15?,"""No""",Politics,$85k,"Dec 15, 2025",will-russia-capture-any-territory-in-lyman-by-december-15,will-15
+U.S. strike on Somalia by February 28?,"""Yes""",Politics,$338k,"Feb 28, 2026",us-strike-on-somalia-by-february-28,us-28
+Will Clavicular be the top ranked Chad by March 31?,"""Yes""",Pop-Culture,$186k,"Mar 18, 2026",will-clavicular-be-the-top-ranked-chad-by-march-31,will-31
+Trump’s travel ban removed by January 31?,“No”,Pop-Culture,$10k,"Jan 31, 2026",trumps-travel-ban-removed-by-january-31,trumps-31
+Will BULLY debut No.1 on Billboard 200?,"""No""",Pop-Culture,$12k,"Feb 28, 2026",will-bully-debut-no1-on-billboard-200,will-200
+Trump declassifies new UFO files by February 28?,"""No""",Pop-Culture,$46k,"Feb 28, 2026",trump-declassifies-new-ufo-files-by-february-28,trump-28
+Martin Nowak out as Harvard professor by February 28?,"""No""",Pop-Culture,$9k,"Feb 28, 2026",martin-nowak-out-by-february-28,martin-28
+Will Ye say something antisemitic before March?,"""No""",Pop-Culture,$22k,"Feb 28, 2026",will-ye-say-something-antisemitic-before-march-575,will-575
+Will Kanye tweet again by February 28?,"""No""",Pop-Culture,$36k,"Feb 28, 2026",will-kanye-tweet-again-by-february-28,will-28
+Will Bill or Hillary Clinton be held in contempt of Congress by Feb 28?,"""No""",Pop-Culture,$95k,"Feb 28, 2026",will-bill-or-hillary-clinton-be-held-in-contempt-of-congress-by-feb-28,will-28
+Stefon Diggs suspended this season?,"""No""",Pop-Culture,$52k,"Feb 28, 2026",stefon-diggs-suspended-this-season,stefon-season
+X relaunches Vine in 2025,"""No""",Technology,$150k,"Jan 4, 2026",x-relaunches-vine-in-2025,x-2025
+Apple AirTags 2 priced below $30 USD at release,"""Yes""",Technology,$61k,"Jan 26, 2026",apple-airtags-2-priced-below-30-usd-at-release,apple-release
+Will Cluely declare bankruptcy in 2025?,"""No""",Technology,$8k,"Dec 31, 2025",will-cluely-declare-bankruptcy-in-2025,will-2025
+ChatGPT Full Outage by February 28?,"""Yes""",Technology,$21k,"Feb 28, 2026",chatgpt-full-outage-by-february-28,chatgpt-28
+"TrumpRX launched by February 28, 2026?","""Yes""",Technology,$81k,"Feb 28, 2026",trumprx-launched-by-february-28-2026,trumprx-2026
+Will ChatGPT reach 1b monthly active users in 2025?,"""No""",Technology,$339k,"Dec 31, 2025",will-chatgpt-reach-1b-monthly-active-users-in-2025,will-2025
+AWS service disrupted by January 31?,"""No""",Technology,$38k,"Jan 31, 2026",aws-service-disrupted-by-january-31,aws-31
+iPhone SE 4 under $500?,"""No""",Technology,$305k,"Mar 31, 2025",iphone-se-4-under-500,iphone-500
+Will Kevin O'Leary buy TikTok?,"""No""",Technology,$263k,"Mar 31, 2025",will-kevin-oleary-buy-tiktok,will-tiktok
